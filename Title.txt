@@ -1,2 +1,2 @@
-DE:Changing World Red
-US:Changing World Red
+DE:Changing World Red 0.1
+US:Changing World Red 0.1
