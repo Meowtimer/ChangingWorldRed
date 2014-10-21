@@ -1,0 +1,2 @@
+DE:Eigene Zauberkombos
+US:Custom spell combos

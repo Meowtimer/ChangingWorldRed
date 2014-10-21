@@ -1,0 +1,28 @@
+--> 0.93
+- Teamfarben automatisch an
+- 12. map: Blackfield
+- 13. map: Kampf der Katapulte
+- Ein Skin kann nur einmal vorkommen (aus Teamsicht)
+  (außer es gibt mehr Teams als Skins)
+- Falls jeder mit wählen fertig ist, geht das Spiel schneller los
+- Skin im Scoreboard eingefügt
+- Steinschild verkleinert
+- Bei Wahlen: Random-Symbol hinzugefügt
+- Dekoobjekte am Anfang
+- Jede Map braucht nun Mana zum zaubern
+- Beschreibung erweitert
+- Hintergründe geändert
+- Szenario kompromiert (1MB kleiner!)
+- Neues Dekoobjekt: (Party)DekoKristall
+
+
+--> 0.80
+- Versionsnummer erhöht
+
+
+--> 0.795
+- Storedheal durch verkleinertes Steinschild ersetzt
+- Magier und Ritter-skins gelöscht
+- Alle Spawns angepasst (Kein relaunchen mehr im Käfig)
+- Team-über-Kopf-Nachricht weg
+- Timer für die Skinwahlen eingebaut

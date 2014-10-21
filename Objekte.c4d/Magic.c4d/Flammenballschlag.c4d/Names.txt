@@ -1,0 +1,2 @@
+DE:Feuerballschlag
+US:Fireballattack

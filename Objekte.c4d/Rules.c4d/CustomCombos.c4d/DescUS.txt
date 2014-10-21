@@ -1,0 +1,1 @@
+Define your own spell combos using /setcombo oldcombo newcombo. User number keys for combos; e.g. "/setcombo 44 46" sets lava shot to throw-dig instead of throw-throw. User /clearcombos to reset all custom combos. If newcombo is 0, the spell is cast hen pressing "Special2" (instead of opening the context menu).

@@ -1,0 +1,8 @@
+SbrdTitle=Lives [Tab]
+SbrdPlayerEliminated=<c c9c9c9><i>Out!</i></c>
+LogPlrJoined=Spieler %s has gejoint! Illegal.
+LogPlrSuicide=%s killed himself!%s
+LogPlrTeamkill=%s was killed by his colleague %s.%s
+LogPlrDeath= %s died.%s
+LogPlrMurder=%s killed %s!%s
+LogPlrEliminated=%s eliminated.

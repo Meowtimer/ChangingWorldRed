@@ -1,0 +1,8 @@
+[Material]
+Name=IceBrick
+Color=127,200,255
+Shape=0
+Density=50
+Placement=60
+TextureOverlay=Brick
+OverlayType=1

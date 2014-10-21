@@ -1,0 +1,8 @@
+SbrdTitle=Punkte [Tab]
+SbrdPlayerEliminated=<c c9c9c9><i>Out!</i></c>
+LogPlrJoined=Spieler %s hat gejoint! Illegal.
+LogPlrSuicide=%s hat sich selbst ermordet!%s
+LogPlrTeamkill=%s hat seinen Teamkollegen namens %s beseitigt.%s
+LogPlrDeath= %s ist gestorben.%s
+LogPlrMurder=%s hat %s getötet!%s
+LogPlrEliminated=%s eliminiert.

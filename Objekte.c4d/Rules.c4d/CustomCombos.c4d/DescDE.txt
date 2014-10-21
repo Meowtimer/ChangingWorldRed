@@ -1,0 +1,1 @@
+Eigene Spellkombos definieren ueber /setcombo AlteCombo NeueCombo. Kombos als Zahlen; z.B. "/setcombo 44 46" setzt Lavaschuss auf Werfen-Graben statt Werfen-Werfen. Mit /clearcombos werden alle Kombos zurueck gesetzt. Ist NeueCombo=0, so wird der Zauber auf "Spezial2" gezaubert anstatt das Kontextmenue zu oeffnen.

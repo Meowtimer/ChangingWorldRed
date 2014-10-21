@@ -1,0 +1,2 @@
+DE:Zauberenergie-Versorgung (fast mana)
+US:Magic energy supply (fast mana)

@@ -1,0 +1,8 @@
+[DefCore]
+id=GRSF
+Name=Feuerballschlag
+Version=4,9,5
+Category=131072
+Value=50
+Picture=0,0,64,64
+Components=ISPH=2;IASH=1;IROC=2;

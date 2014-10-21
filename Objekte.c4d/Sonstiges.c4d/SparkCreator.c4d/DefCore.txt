@@ -1,0 +1,8 @@
+[DefCore]
+id=_SC_
+Name=SparkCreator
+Version=4,9,5
+Category=C4D_StaticBack
+Picture=1,1,1,1
+Timer=36
+TimerCall=SparkTime

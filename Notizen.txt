@@ -1,0 +1,4 @@
+KdK: Mapgröße richtet sich nach Spielerzahl?
+KdK: Spawn verbessern?
+
+Eventuell: Bereits gewählte Skins grau einfärben

@@ -1,0 +1,10 @@
+[DefCore]
+id=B_07
+Name=UrwaldclonkBild
+Version=4,9,5
+Category=C4D_StaticBack
+Width=32
+Height=40
+Offset=-16,-20
+Picture=0,0,32,40
+ 

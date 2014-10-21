@@ -1,0 +1,10 @@
+[DefCore]
+id=LAVS
+Version=4,0,2
+Name=Lavastoﬂ
+Category=131072
+Width=1
+Height=1
+Value=25
+Components=IBON=2;
+Picture=0,0,40,40

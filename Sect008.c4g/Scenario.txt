@@ -1,0 +1,12 @@
+[Landscape]
+MapWidth=250,0,250,10000
+MapHeight=100,0,100,10000
+Sky=Sky4
+NewStyleLandscape=2
+TopOpen=0
+SkyScrollMode=2
+
+[Weather]
+Climate=0,0,0,100
+Wind=1,70,-100,100
+ 

@@ -1,0 +1,1 @@
+Sucht nach Objekten mit einer bestimmten Geschwindigkeit und schleudert sie zurück.

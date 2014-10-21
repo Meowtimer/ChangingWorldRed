@@ -1,0 +1,80 @@
+map Ek {
+ 
+	overlay {
+   x=0;  y=90; wdt=100; hgt=12; mat=Brick;  tex=Brick;
+    algo=rndchecker;
+    };
+ 
+	overlay {
+   x=0;  y=0;  wdt=100; hgt=20;
+ mat=Brick;  tex=Brick;
+    algo=rndchecker;
+    };
+
+	overlay {
+   x=0;  y=0;  wdt=100; hgt=5;
+  mat=Brick;  tex=Brick;
+                        };
+
+        overlay {
+   x=0;  y=0;  wdt=5;   hgt=100;
+   mat=Brick;  tex=Brick;    
+   algo=rndchecker;
+    };
+
+ 	overlay {
+   x=95; y=0;
+    mat=Brick;  tex=Brick;
+    algo=rndchecker;
+    };
+
+ 	overlay {
+   x=20; y=0;  wdt=10; hgt=10;
+  mat=Brick;  tex=Brick;
+    algo=rndall; a=60;
+  };
+
+ 	overlay {
+   x=40; y=40; wdt=20; hgt=10;
+  mat=Brick;  tex=Brick;
+    algo=rndall; a=30;
+  };
+
+ 	overlay {
+   x=70; y=30; wdt=20; hgt=50;
+  mat=Brick;  tex=Brick;
+    algo=rndall; a=30;
+  };
+ 
+	overlay {
+   x=30; y=60; wdt=30; hgt=20;
+  mat=Brick;  tex=Brick;
+    algo=rndall; a=40;
+  };
+  overlay {
+   x=40; y=30; wdt=40; hgt=20;
+   mat=Brick; tex=Brick;
+   algo=rndall; a=30;
+   };
+  overlay {
+   x=70; y=30; wdt=20; hgt=60;
+   mat=Brick; tex=Brick;
+   algo=rndall; a=30;
+   };
+  overlay {
+   x=30; y=25; wdt=30; hgt=70;
+   mat=Brick; tex=Brick;
+   algo=rndall; a=40;
+   };
+  overlay {
+   x=10; y=10; wdt=90; hgt=90;
+   tex=Flat;
+   algo=rndchecker;
+   };
+   overlay {
+   x=20; y= 50; wdt=60; hgt=30;
+   mat=Brick; tex=Brick; 
+   algo=rndchecker;
+   };
+ 
+};

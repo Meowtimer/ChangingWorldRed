@@ -1,0 +1,1 @@
+This rule inhibits spell spam.
