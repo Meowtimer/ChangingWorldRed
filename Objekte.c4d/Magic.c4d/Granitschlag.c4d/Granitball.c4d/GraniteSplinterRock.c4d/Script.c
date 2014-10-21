@@ -1,18 +1,21 @@
 /*--- Der Stein ---*/
 
 #strict
+#include TFLN
 
-protected func Hit()
+public func RejectEntrance()
 {
-  Sound("RockHit*");
-  return(1);
+	return true;
 }
 
+/*
 local alpha;
 
 private func FadeOut()
 {
-  alpha+=10;
-  if(alpha>240) RemoveObject();
-  SetClrModulation(RGBa(255,255,255,alpha));
+	alpha += 10;
+	if (alpha > 240)
+		RemoveObject();
+	SetClrModulation(RGBa(255, 255, 255, alpha));
 }
+*/
