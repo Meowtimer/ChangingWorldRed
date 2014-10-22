@@ -7,6 +7,7 @@ Friction=80
 DigFree=1
 BlastFree=1
 Blast2Object=FLNT
+Blast2ObjectRatio=100
 Dig2Object=FLNT
 Dig2ObjectRatio=200
 Blast2PXSRatio=10
